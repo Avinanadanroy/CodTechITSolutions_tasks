@@ -29,8 +29,8 @@ To build a robust encryption application using AES-256 that:
 
 Install required libraries:
 
-```bash
-pip install cryptography pyqt5
+bash
+`pip install cryptography pyqt5`
  
 ---
 
@@ -96,8 +96,8 @@ pip install cryptography pyqt5
 ## Running the Application
 
 - Run the tool:
-``` bash
-      python Advanced_encryption_tool.py
+ bash
+      `python Advanced_encryption_tool.py`
 
 ---
 
@@ -105,3 +105,19 @@ pip install cryptography pyqt5
 Encrypt: Select a file, enter a password, and click "Encrypt File".
 
 Decrypt: Select an .enc file, enter the original password, and click "Decrypt File".
+
+---
+
+## Outputs
+
+- GUI interface
+![Image](https://github.com/user-attachments/assets/a2fe443f-992c-4e8c-aa33-d737676ce6b7)
+
+- Enter password to Encrypt or Decrypt
+![Image](https://github.com/user-attachments/assets/b6b93dba-1f5b-4a63-8db7-f30416176bf5)
+
+- Encrypted output
+![Image](https://github.com/user-attachments/assets/b5e4f94b-462a-44fe-a7dc-79eff4e01f0e)
+
+- Decrypted output
+![Image](https://github.com/user-attachments/assets/e9d229ff-fc5d-4504-96cc-650c5cd4baba)
