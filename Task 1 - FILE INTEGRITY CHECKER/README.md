@@ -1,11 +1,11 @@
-# File Integrity Monitor
+# File Integrity Checker
 
-*COMPANY* : CODTECH IT SOLUTIONS
-*NAME* : AVINANADAN ROY
-*INTERN id* : CT04WT128
-*DOMAIN* : Cyber Security & Ethical Hacking
-*DURATION* : 4 Weeks
-*MENTOR* : NEELA SANTOSH
+*COMPANY* : CODTECH IT SOLUTIONS<br>
+*NAME* : AVINANADAN ROY<br>
+*INTERN id* : CT04WT128<br>
+*DOMAIN* : Cyber Security & Ethical Hacking<br>
+*DURATION* : 4 Weeks<br>
+*MENTOR* : NEELA SANTOSH<br>
 
 ---
 
