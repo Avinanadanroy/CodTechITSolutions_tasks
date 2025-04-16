@@ -88,3 +88,14 @@ The script contains the following functions:
 3. Run the script using the command:
    ```bash
          python File_integrity_checker.py
+
+---
+
+## Outputs
+
+- Output 1 
+![Image](https://github.com/user-attachments/assets/f7752428-815f-4058-b97a-29b8926e67d2)
+
+- Output 2
+![Image](https://github.com/user-attachments/assets/1c9678a4-db6f-4d15-a144-f3cf7c468046)
+   
